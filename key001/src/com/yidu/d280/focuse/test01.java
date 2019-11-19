@@ -10,5 +10,6 @@ public class test01 {
 		System.out.println("66666666");
 		System.out.println("77777777");
 		System.out.println("88888888");
+		System.out.println("99999999");
 	}
 }
