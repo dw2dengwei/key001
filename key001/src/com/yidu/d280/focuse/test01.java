@@ -7,6 +7,5 @@ public class test01 {
 		System.out.println("33333333");
 		System.out.println("44444444");
 		System.out.println("55555555");
-		System.out.println("66666666");
 	}
 }
