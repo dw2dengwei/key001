@@ -13,5 +13,7 @@ public class test01 {
 		System.out.println("99999999");
 		System.out.println("00000000");
 		System.out.println("0023400");
+                System.out.println("git to local");
+
 	}
 }
